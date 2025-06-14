@@ -1,0 +1,4 @@
+// This is a placeholder for the alarm sound file.
+// In a real app, you would include an actual audio file here.
+// For development purposes, you can download a free alarm sound
+// and place it in this directory with the filename 'alarm.mp3'.
