@@ -77,10 +77,12 @@ This project was created during the Trae AI IDE: Zero Limits Hackathon to explor
 ## 👤 Author
 
 Hatem Soliman
+
 Frontend dev, builder, and productivity hacker
-LinkedIn: [https://www.linkedin.com/in/h4temsoliman/](https://www.linkedin.com/in/h4temsoliman/)
-GitHub: [https://github.com/codenkoffee](https://github.com/codenkoffee)
-Twitter: [https://twitter.com/h4temsoliman](https://twitter.com/h4temsoliman)
+
+- LinkedIn: [https://www.linkedin.com/in/h4temsoliman/](https://www.linkedin.com/in/h4temsoliman/)
+- GitHub: [https://github.com/codenkoffee](https://github.com/codenkoffee)
+- X/Twitter: [https://twitter.com/h4temsoliman](https://twitter.com/h4temsoliman)
 
 ---
 
